@@ -6,7 +6,6 @@
 
 ##### Spotify Playing 🎧
 
-
 🔭 I’m currently working on ... my College Project\
 🌱 I’m currently learning ... Computer Science & Engineering\
 👯 I’m looking to collaborate on ... Application Based Python Project\
