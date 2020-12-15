@@ -1,3 +1,5 @@
+![](greetings.gif)
+
 ### Hi there 👋
 
 <!--
