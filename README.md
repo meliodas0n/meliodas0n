@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meliodas0n)](https://github.com/meliodas0n/github-readme-stats)
 
 ##### Spotify Playing 🎧
-[<img src="https://spotify-now-playing-khaki-nine.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/Meliodas)
+
 
 🔭 I’m currently working on ... my College Project\
 🌱 I’m currently learning ... Computer Science & Engineering\
