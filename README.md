@@ -3,9 +3,9 @@
 [![Mrunal's github stats](https://github-readme-stats.vercel.app/api?username=meliodas0n)](https://github.com/meliodas0n/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meliodas0n)](https://github.com/meliodas0n/github-readme-stats)
-
+<!-- 
 ##### Spotify Playing 🎧
-[![Spotify](https://vercel.com/meliodas0n/novatorem/6kzg52s49.vercel.app/api/spotify)](https://open.spotify.com/user/wq0ntmkyqs2um9a5ow4j10nq2)
+[![Spotify](https://vercel.com/meliodas0n/novatorem/6kzg52s49.vercel.app/api/spotify)](https://open.spotify.com/user/wq0ntmkyqs2um9a5ow4j10nq2) -->
 
 🔭 I’m currently working on ... my College Project\
 🌱 I’m currently learning ... Computer Science & Engineering\
