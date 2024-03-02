@@ -7,7 +7,7 @@
 ##### Spotify Playing 🎧
 [![Spotify](https://vercel.com/meliodas0n/novatorem/6kzg52s49.vercel.app/api/spotify)](https://open.spotify.com/user/wq0ntmkyqs2um9a5ow4j10nq2) -->
 
-🔭 I’m currently working in ... Harman Connected Services as Associate Engineer-Product Development\
+🔭 I’m currently working in ... Circana as Engineer - Analytics Dev, I work on Data Engineering and Analytics Development\
 🌱 I graduated ... Computer Science & Engineering\
 👯 I’m looking to collaborate on ... AI/ML/DL Projects\
 <!-- 🤔 I’m looking for help with ... Data Science\ -->
