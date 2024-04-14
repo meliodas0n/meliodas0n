@@ -10,8 +10,8 @@
 🔭 I’m currently working in ... Circana as Engineer - Analytics Dev, I work on Data Engineering and Analytics Development\
 🌱 I graduated ... Computer Science & Engineering\
 👯 I’m looking to collaborate on ... AI/ML/DL Projects\
-<!-- 🤔 I’m looking for help with ... Data Science\ -->
+🤔 I’m looking for a job ... SDE\
 💬 Ask me about ... Games\
 📫 How to reach me: ... Twitter @MrunalNarayana\
 😄 Pronouns: ... Meliodas\
-⚡ Fun fact: ... I spend most of TIME listening to Programming and Songs\
+⚡ Fun fact: ... I spend most of TIME listening to Programming and Songs
