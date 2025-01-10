@@ -10,8 +10,17 @@
 🔭 I’m currently working in ... Circana as Engineer - Analytics Dev, I work on Data Engineering and Analytics Development\
 🌱 I graduated ... Computer Science & Engineering\
 👯 I’m looking to collaborate on ... AI/ML/DL Projects\
-🤔 I’m looking for a job ... SDE\
+🤔 I’m looking for a job ... SDE; Resume: [Mrunal Narayana](MrunalNarayana.pdf)\
 💬 Ask me about ... Games\
-📫 How to reach me: ... Twitter @MrunalNarayana\
+📫 How to reach me: ... LinkedIn [MrunalNarayana](https://www.linkedin.com/in/mrunalnarayana/)\
 😄 Pronouns: ... Meliodas\
 ⚡ Fun fact: ... I spend most of TIME listening to Programming and Songs
+
+#### 2025 Goals
+
+1. Sleep before day changes.
+2. Get in shape.
+3. Solve atleast one problem every day of any CP.
+4. Get a new job as SDE.
+5. Get myself a wesbite :).
+6. Be that guy on GITHUB.
