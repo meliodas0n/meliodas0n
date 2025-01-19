@@ -20,7 +20,7 @@
 
 1. Sleep before day changes.
 2. Get in shape.
-3. Solve atleast one problem every day of any CP.
+3. Write code everyday.
 4. Get a new job as SDE.
 5. Get myself a wesbite :).
 6. Be that guy on GITHUB.
