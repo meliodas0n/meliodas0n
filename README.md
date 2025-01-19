@@ -7,7 +7,7 @@
 ##### Spotify Playing 🎧
 [![Spotify](https://vercel.com/meliodas0n/novatorem/6kzg52s49.vercel.app/api/spotify)](https://open.spotify.com/user/wq0ntmkyqs2um9a5ow4j10nq2) -->
 
-You can find me here: (https://meliodas0n.github.io/) \
+You can find me here: https://meliodas0n.github.io/ \
 🔭 I’m currently working in ... Circana as Engineer - Analytics Dev, I work on Data Engineering and Analytics Development\
 🌱 I graduated ... Computer Science & Engineering\
 👯 I’m looking to collaborate on ... AI/ML/DL Projects\
